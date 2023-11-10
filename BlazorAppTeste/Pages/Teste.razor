@@ -1,0 +1,55 @@
+﻿@page "/teste"
+@using BlazorAppTeste.Models
+@inject HttpClient httpClient
+@inject ISnackbar Snackbar
+@using MudBlazor
+@using MudBlazor.Services
+
+<h3>TESTE</h3>
+
+@if (loading)
+{
+    <div class="loading-container">
+        <img src="~/GifLoading.gif" alt="Carregando..." />
+    </div>
+}
+
+@if (!loading)
+{
+    <MudSelect T="SistemApi" Label="Selecione um sistema" @bind-Value="selectedSistema" Variant="Variant.Filled" OnValueChanged="HandleSelectChange">
+        <Items>
+            @foreach (var sistema in sistemas)
+            {
+                <MudSelectItem Value="@sistema">@sistema.Descricao</MudSelectItem>
+            }
+        </Items>
+    </MudSelect>
+}
+
+@code {
+    private List<SistemApi> sistemas;
+    private bool loading = true;
+    private SistemApi selectedSistema;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await Task.Delay(5000); // Delay de 5 segundos
+
+        // Consulto à API neste momento com o endpoint
+        sistemas = await httpClient.GetFromJsonAsync<List<SistemApi>>("http://hetosoft.ddns.com.br:8086/api/Geral/GetSACSistemas");
+
+        loading = false; // escondo o GIF de carregamento quando retorna
+    }
+
+
+    // Manipula a alteração de seleção no MudSelect.
+    // Exibe uma mensagem de sucesso com o ID e a Descrição do item selecionado usando o serviço Snackbar.
+    private void HandleSelectChange(object value)
+    {
+        //Converte o valor selecionado para o tipo SistemApi
+        var selected = (SistemApi)value;
+
+        // Adiciona uma mensagem ao Snackbar com o ID e a Descrição do item selecionado
+        Snackbar.Add($"ID: {selected.IdSistema}, Descrição: {selected.Descricao}", Severity.Success);
+    }
+}
