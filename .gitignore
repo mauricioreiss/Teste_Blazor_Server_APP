@@ -353,3 +353,7 @@ MigrationBackup/
 *._gs
 *._gs
 *.gsl
+*.json
+*.pdb
+*.editorconfig
+*.cache
