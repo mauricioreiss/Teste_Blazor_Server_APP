@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server_APP\\BlazorAppTeste\\BlazorAppTeste.csproj": {}
+    "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\BlazorAppTeste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server_APP\\BlazorAppTeste\\BlazorAppTeste.csproj": {
+    "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\BlazorAppTeste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server_APP\\BlazorAppTeste\\BlazorAppTeste.csproj",
+        "projectUniqueName": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\BlazorAppTeste.csproj",
         "projectName": "BlazorAppTeste",
-        "projectPath": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server_APP\\BlazorAppTeste\\BlazorAppTeste.csproj",
+        "projectPath": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\BlazorAppTeste.csproj",
         "packagesPath": "C:\\Users\\Mauri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server_APP\\BlazorAppTeste\\obj\\",
+        "outputPath": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mauri\\AppData\\Roaming\\NuGet\\NuGet.Config",
