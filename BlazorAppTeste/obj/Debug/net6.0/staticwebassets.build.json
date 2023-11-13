@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9rrfBhocXR1IjoRYxpCRCMwxjqb6asa8uge60NWXtxA=",
+  "Hash": "6r1MKHAowednZIhY5XZB2l7A7gyvBno9wdvne3LdRko=",
   "Source": "BlazorAppTeste",
   "BasePath": "_content/BlazorAppTeste",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "BlazorAppTeste\\wwwroot",
       "Source": "BlazorAppTeste",
-      "ContentRoot": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\",
       "BasePath": "_content/BlazorAppTeste",
       "Pattern": "**"
     }
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "C:\\Users\\Mauri\\.nuget\\packages\\mudblazor\\6.0.17\\staticwebassets\\MudBlazor.min.js"
     },
     {
-      "Identity": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorAppTeste.styles.css",
+      "Identity": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorAppTeste.styles.css",
       "SourceId": "BlazorAppTeste",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorAppTeste",
       "RelativePath": "BlazorAppTeste.styles.css",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorAppTeste.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorAppTeste.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorAppTeste.bundle.scp.css",
+      "Identity": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorAppTeste.bundle.scp.css",
       "SourceId": "BlazorAppTeste",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorAppTeste",
       "RelativePath": "BlazorAppTeste.bundle.scp.css",
       "AssetKind": "All",
@@ -82,13 +82,30 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorAppTeste.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorAppTeste.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\carregando.png",
       "SourceId": "BlazorAppTeste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\",
+      "BasePath": "_content/BlazorAppTeste",
+      "RelativePath": "carregando.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\carregando.png"
+    },
+    {
+      "Identity": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "SourceId": "BlazorAppTeste",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\",
       "BasePath": "_content/BlazorAppTeste",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorAppTeste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\",
       "BasePath": "_content/BlazorAppTeste",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -119,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BlazorAppTeste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\",
       "BasePath": "_content/BlazorAppTeste",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -136,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "BlazorAppTeste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\",
       "BasePath": "_content/BlazorAppTeste",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -153,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "BlazorAppTeste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\",
       "BasePath": "_content/BlazorAppTeste",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -170,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "BlazorAppTeste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\",
       "BasePath": "_content/BlazorAppTeste",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -187,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "BlazorAppTeste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\",
       "BasePath": "_content/BlazorAppTeste",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -204,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "BlazorAppTeste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\",
       "BasePath": "_content/BlazorAppTeste",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -221,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "BlazorAppTeste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\",
       "BasePath": "_content/BlazorAppTeste",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -238,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "BlazorAppTeste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\",
       "BasePath": "_content/BlazorAppTeste",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -255,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "BlazorAppTeste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\",
       "BasePath": "_content/BlazorAppTeste",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -272,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\css\\site.css",
       "SourceId": "BlazorAppTeste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\",
       "BasePath": "_content/BlazorAppTeste",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -289,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\favicon.ico",
       "SourceId": "BlazorAppTeste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\",
       "BasePath": "_content/BlazorAppTeste",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -306,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\GifLoading.gif",
+      "Identity": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\GifLoading.gif",
       "SourceId": "BlazorAppTeste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\",
       "BasePath": "_content/BlazorAppTeste",
       "RelativePath": "GifLoading.gif",
       "AssetKind": "All",
@@ -323,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\GifLoading.gif"
     },
     {
-      "Identity": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\Index.razor",
+      "Identity": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\Index.razor",
       "SourceId": "BlazorAppTeste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Mauri\\source\\repos\\BlazorAppTeste\\BlazorAppTeste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Mauri\\Source\\Repos\\Teste_Blazor_Server2\\BlazorAppTeste\\wwwroot\\",
       "BasePath": "_content/BlazorAppTeste",
       "RelativePath": "Index.razor",
       "AssetKind": "All",

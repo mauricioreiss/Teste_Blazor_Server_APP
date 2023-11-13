@@ -6,6 +6,8 @@
 @using MudBlazor.Services
 
 <h3>TESTE</h3>
+<link href="_content/MudBlazor/MudBlazor.min.css" rel="stylesheet" />
+
 
 @if (loading)
 {
@@ -36,9 +38,16 @@
         await Task.Delay(5000); // Delay de 5 segundos
 
         // Consulto à API neste momento com o endpoint
-        sistemas = await httpClient.GetFromJsonAsync<List<SistemApi>>("http://hetosoft.ddns.com.br:8086/api/Geral/GetSACSistemas");
+        try
+        {
+            sistemas = await httpClient.GetFromJsonAsync<List<SistemApi>>("http://hetosoft.ddns.com.br:8086/api/Geral/GetSACSistemas");
+            loading = false;
+        }
+        catch (HttpRequestException ex)
+        {
+            Console.WriteLine($"Erro no HTTP: {ex.Message}");
+        }
 
-        loading = false; // escondo o GIF de carregamento quando retorna
     }
 
 
